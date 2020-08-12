@@ -1,0 +1,7 @@
+###
+
+GET http://localhost:8080/countries
+
+### 
+
+POST http://localhost:8080/countries/Allemagne
